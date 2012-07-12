@@ -1,0 +1,9 @@
+{
+     "name": "chatoso",
+     "description": "example chat application made with zappa",
+     "version": "0.0.1",
+     "dependencies": {
+        "zappa": "",
+        "stylus": ""
+     }
+}
